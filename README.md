@@ -4,6 +4,7 @@ One of the most important problems in e-commerce is selling products. is the cor
 
 This data set, which includes e-commerce product sections, includes product categories and various metadata. The product with the most reviews in the electronic classification has user ratings and reviews.
 
+
 Dataset Story
 
 reviewerID : User ID
